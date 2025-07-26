@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: music_silencer
+Specification-Vendor: Riburitu
+Specification-Version: 1
+Implementation-Title: silencemusic
+Implementation-Version: 1.0.0
+Implementation-Vendor: Riburitu
+Implementation-Timestamp: 2025-07-26T19:51:48+0200
+
